@@ -8,15 +8,8 @@ namespace SingkoFitnessAPI.Profiles
     {
         public UserProfile()
         {
-            //CreateMap<User, UserReadDto>();
-            CreateMap<User, UsersReadDto>()
-    .ForMember(dest => dest.RoleName, opt => opt.MapFrom(src => src.Role.RoleName));
-
-
-            // DTO → Entity
+            CreateMap<User, UsersReadDto>().ForMember(dest => dest.RoleName, opt => opt.MapFrom(src => src.Role.RoleName));
             CreateMap<UsersCreateDto, User>();
-
-
             CreateMap<UsersUpdateDto, User>();
         }
     }
