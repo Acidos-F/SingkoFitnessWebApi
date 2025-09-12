@@ -1,0 +1,6 @@
+@SingkoFItnessWebApi_HostAddress = http://localhost:5145
+
+GET {{SingkoFItnessWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
