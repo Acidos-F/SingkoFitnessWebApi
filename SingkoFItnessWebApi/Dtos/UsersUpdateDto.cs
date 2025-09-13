@@ -17,6 +17,10 @@ namespace SingkoFItnessWebApi.Dtos
         [MaxLength(255, ErrorMessage = "Email cannot exceed 255 characters.")]
         public string Email { get; set; } = null!;
 
+        [MinLength(6, ErrorMessage = "Password must be at least 6 characters long.")]
+        [MaxLength(100, ErrorMessage = "Password cannot exceed 100 characters.")]
+        public string Password { get; set; } = null!; // plain text (will be hashed later)
+
         [Range(1, 120, ErrorMessage = "Age must be between 1 and 120 years.")]
         public int? Age { get; set; }
 

@@ -17,7 +17,7 @@
   },
   {
     "ContainingType": "SingkoFItnessWebApi.Controllers.UsersController",
-    "Method": "getUsers",
+    "Method": "GetUsers",
     "RelativePath": "api/Users",
     "HttpMethod": "GET",
     "IsController": true,
@@ -37,7 +37,7 @@
   },
   {
     "ContainingType": "SingkoFItnessWebApi.Controllers.UsersController",
-    "Method": "Register",
+    "Method": "PostUser",
     "RelativePath": "api/Users",
     "HttpMethod": "POST",
     "IsController": true,
@@ -47,6 +47,22 @@
         "Name": "dto",
         "Type": "SingkoFItnessWebApi.Dtos.UsersCreateDto",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SingkoFItnessWebApi.Controllers.UsersController",
+    "Method": "GetUserById",
+    "RelativePath": "api/Users/UserId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
@@ -63,8 +79,8 @@
   },
   {
     "ContainingType": "SingkoFItnessWebApi.Controllers.UsersController",
-    "Method": "UpdateSingkobank",
-    "RelativePath": "api/Users",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Users/UserId",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -84,25 +100,9 @@
   },
   {
     "ContainingType": "SingkoFItnessWebApi.Controllers.UsersController",
-    "Method": "DeleteSingkobank",
-    "RelativePath": "api/Users",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "UserId",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SingkoFItnessWebApi.Controllers.UsersController",
-    "Method": "getUsers",
+    "Method": "DeleteUser",
     "RelativePath": "api/Users/UserId",
-    "HttpMethod": "GET",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
