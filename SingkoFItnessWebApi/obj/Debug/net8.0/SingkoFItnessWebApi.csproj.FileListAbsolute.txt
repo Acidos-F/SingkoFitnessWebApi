@@ -265,3 +265,4 @@ C:\Users\Admin\source\repos\SingkoFItnessWebApi\SingkoFItnessWebApi\bin\Debug\ne
 C:\Users\Admin\source\repos\SingkoFItnessWebApi\SingkoFItnessWebApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Admin\source\repos\SingkoFItnessWebApi\SingkoFItnessWebApi\obj\Debug\net8.0\SingkoFItnessWebApi.RazorAssemblyInfo.cache
 C:\Users\Admin\source\repos\SingkoFItnessWebApi\SingkoFItnessWebApi\obj\Debug\net8.0\SingkoFItnessWebApi.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\SingkoFItnessWebApi\SingkoFItnessWebApi\obj\Debug\net8.0\SingkoFItnessWebApi.sourcelink.json

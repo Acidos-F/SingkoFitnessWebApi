@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "SingkoFitnessAiController",
+    "Method": "Ask",
+    "RelativePath": "api/SingkoFitnessAi/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SingkoFItnessWebApi.Dtos.AiAskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SingkoFItnessWebApi.Controllers.UsersController",
     "Method": "getUsers",
     "RelativePath": "api/Users",

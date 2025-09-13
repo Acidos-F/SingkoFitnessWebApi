@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\controllers\\singkofitnessaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\controllers\\singkofitnessaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\dtos\\aiaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\dtos\\aiaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\dtos\\usersupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\dtos\\usersupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\dtos\\usersupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\dtos\\usersupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +50,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\appsettings.json",
+              "RelativeToolTip": "SingkoFItnessWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T08:55:49.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AiAskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Dtos\\AiAskDto.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Dtos\\AiAskDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Dtos\\AiAskDto.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Dtos\\AiAskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T13:04:42.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingkoFitnessAiController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Controllers\\SingkoFitnessAiController.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Controllers\\SingkoFitnessAiController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Controllers\\SingkoFitnessAiController.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Controllers\\SingkoFitnessAiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T13:02:54.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UsersUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Dtos\\UsersUpdateDto.cs",
               "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Dtos\\UsersUpdateDto.cs",
@@ -51,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UserProfile.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Profiles\\UserProfile.cs",
               "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Profiles\\UserProfile.cs",
@@ -64,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Controllers\\UsersController.cs",
@@ -77,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "UsersCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Dtos\\UsersCreateDto.cs",
               "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Dtos\\UsersCreateDto.cs",
@@ -90,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Models\\User.cs",

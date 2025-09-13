@@ -5,6 +5,37 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/SingkoFitnessAi/ask": {
+      "post": {
+        "tags": [
+          "SingkoFitnessAi"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AiAskDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AiAskDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AiAskDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Users": {
       "get": {
         "tags": [
@@ -173,6 +204,16 @@
   },
   "components": {
     "schemas": {
+      "AiAskDto": {
+        "type": "object",
+        "properties": {
+          "prompt": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "UsersCreateDto": {
         "required": [
           "email",
