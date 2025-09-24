@@ -1,5 +1,4 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 namespace SingkoFItnessWebApi.Dtos {
     public class ProgressLogsUpdateDto {
         [Range(2, 500, ErrorMessage = "Weight must be between 2 kg and 500 kg.")]
