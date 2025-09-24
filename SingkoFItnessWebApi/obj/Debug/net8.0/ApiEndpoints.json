@@ -1,5 +1,219 @@
 [
   {
+    "ContainingType": "NutritionLogsController",
+    "Method": "GetNutritionLogs",
+    "RelativePath": "api/NutritionLogs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SingkoFItnessWebApi.Dtos.NutrionalLogDto.NutritionLogReadDto, SingkoFItnessWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NutritionLogsController",
+    "Method": "CreateNutritionLog",
+    "RelativePath": "api/NutritionLogs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SingkoFItnessWebApi.Dtos.NutrionalLogDto.NutritionLogCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NutritionLogsController",
+    "Method": "GetNutritionLog",
+    "RelativePath": "api/NutritionLogs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SingkoFItnessWebApi.Dtos.NutrionalLogDto.NutritionLogReadDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NutritionLogsController",
+    "Method": "UpdateNutritionLog",
+    "RelativePath": "api/NutritionLogs/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "SingkoFItnessWebApi.Dtos.NutrionalLogDto.NutritionLogUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NutritionLogsController",
+    "Method": "DeleteNutritionLog",
+    "RelativePath": "api/NutritionLogs/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SingkoFItnessWebApi.Controllers.ProgressLogsController",
+    "Method": "GetProgressLogs",
+    "RelativePath": "api/ProgressLogs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SingkoFItnessWebApi.Dtos.ProgressLogsReadDto, SingkoFItnessWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SingkoFItnessWebApi.Controllers.ProgressLogsController",
+    "Method": "CreateProgressLog",
+    "RelativePath": "api/ProgressLogs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SingkoFItnessWebApi.Dtos.ProgressLogsCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SingkoFItnessWebApi.Controllers.ProgressLogsController",
+    "Method": "GetProgressLog",
+    "RelativePath": "api/ProgressLogs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SingkoFItnessWebApi.Dtos.ProgressLogsReadDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SingkoFItnessWebApi.Controllers.ProgressLogsController",
+    "Method": "UpdateProgressLog",
+    "RelativePath": "api/ProgressLogs/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "SingkoFItnessWebApi.Dtos.ProgressLogsUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SingkoFItnessWebApi.Controllers.ProgressLogsController",
+    "Method": "DeleteProgressLog",
+    "RelativePath": "api/ProgressLogs/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SingkoFitnessAiController",
+    "Method": "Ask",
+    "RelativePath": "api/SingkoFitnessAi/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SingkoFItnessWebApi.Dtos.AiAskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SingkoFItnessWebApi.Controllers.UsersController",
     "Method": "GetUsers",
     "RelativePath": "api/Users",
