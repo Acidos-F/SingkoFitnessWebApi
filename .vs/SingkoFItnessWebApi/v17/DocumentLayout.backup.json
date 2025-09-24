@@ -1,25 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\controllers\\progresslogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\controllers\\progresslogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\dtos\\userscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\dtos\\userscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\controllers\\nutritionallogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\controllers\\nutritionallogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\models\\nutritionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\models\\nutritionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\dtos\\nutritionallogdto\\nutritionlogcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\dtos\\nutritionallogdto\\nutritionlogcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\dtos\\nutritionallogdto\\nutritionlogreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\dtos\\nutritionallogdto\\nutritionlogreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\models\\progresslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\models\\progresslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\controllers\\singkofitnessaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\controllers\\singkofitnessaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\admin\\source\\repos\\singkofitnesswebapi\\singkofitnesswebapi\\dtos\\usersupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\dtos\\nutritionallogdto\\nutritionlogupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\dtos\\nutritionallogdto\\nutritionlogupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\dtos\\userscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\dtos\\userscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\models\\singkofitnesswebdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\models\\singkofitnesswebdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\singkofitnesswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\singkofitnesswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|c:\\users\\default.desktop-l99i758\\documents\\github\\singkofitnesswebapi\\singkofitnesswebapi\\dtos\\usersupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5554D15-5E16-40AF-843F-21727FCDEEA0}|SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj|solutionrelative:singkofitnesswebapi\\dtos\\usersupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,45 +70,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Dtos\\UsersUpdateDto.cs",
-              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Dtos\\UsersUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Dtos\\UsersUpdateDto.cs",
-              "RelativeToolTip": "SingkoFItnessWebApi\\Dtos\\UsersUpdateDto.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAzwA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ProgressLog.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Models\\ProgressLog.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Models\\ProgressLog.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Models\\ProgressLog.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Models\\ProgressLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T04:59:11.793Z",
+              "WhenOpened": "2025-09-24T12:02:29.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Profiles\\UserProfile.cs",
-              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Profiles\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Profiles\\UserProfile.cs",
-              "RelativeToolTip": "SingkoFItnessWebApi\\Profiles\\UserProfile.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProgressLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Controllers\\ProgressLogsController.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Controllers\\ProgressLogsController.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Controllers\\ProgressLogsController.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Controllers\\ProgressLogsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCoAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T10:22:30.992Z",
+              "WhenOpened": "2025-09-24T11:46:24.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NutritionalLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Controllers\\NutritionalLogsController.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Controllers\\NutritionalLogsController.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Controllers\\NutritionalLogsController.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Controllers\\NutritionalLogsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:47:07.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SingkoFitnessAiController.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Controllers\\SingkoFitnessAiController.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Controllers\\SingkoFitnessAiController.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Controllers\\SingkoFitnessAiController.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Controllers\\SingkoFitnessAiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:46:26.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "NutritionLogCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogCreateDto.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogCreateDto.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogCreateDto.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:41:30.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SingkoFitnessWebDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Models\\SingkoFitnessWebDbContext.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Models\\SingkoFitnessWebDbContext.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Models\\SingkoFitnessWebDbContext.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Models\\SingkoFitnessWebDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:38:50.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NutritionLog.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Models\\NutritionLog.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Models\\NutritionLog.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Models\\NutritionLog.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Models\\NutritionLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:37:54.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Controllers\\UsersController.cs",
               "RelativeToolTip": "SingkoFItnessWebApi\\Controllers\\UsersController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAgwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,11 +182,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "NutritionLogReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogReadDto.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogReadDto.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogReadDto.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:45:42.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NutritionLogUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogUpdateDto.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogUpdateDto.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogUpdateDto.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Dtos\\NutritionalLogDto\\NutritionLogUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:44:30.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SingkoFItnessWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj",
+              "RelativeToolTip": "SingkoFItnessWebApi\\SingkoFItnessWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T11:36:08.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Dtos\\UsersUpdateDto.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Dtos\\UsersUpdateDto.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Dtos\\UsersUpdateDto.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Dtos\\UsersUpdateDto.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAzwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T04:59:11.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "SingkoFItnessWebApi\\Profiles\\UserProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:22:30.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UsersCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Dtos\\UsersCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Dtos\\UsersCreateDto.cs",
               "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Dtos\\UsersCreateDto.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Dtos\\UsersCreateDto.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Dtos\\UsersCreateDto.cs",
               "RelativeToolTip": "SingkoFItnessWebApi\\Dtos\\UsersCreateDto.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,13 +259,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "SingkoFItnessWebApi\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SingkoFItnessWebApi\\SingkoFItnessWebApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\default.DESKTOP-L99I758\\Documents\\GitHub\\SingkoFitnessWebApi\\SingkoFItnessWebApi\\Models\\User.cs",
               "RelativeToolTip": "SingkoFItnessWebApi\\Models\\User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T10:04:37.925Z",
               "EditorCaption": ""
