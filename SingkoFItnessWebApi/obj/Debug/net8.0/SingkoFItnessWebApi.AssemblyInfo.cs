@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingkoFItnessWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f3541515eee709c645dc3cd5358610f078d9db2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91f666c5b7d8cffe697f501629746f9b30b49196")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingkoFItnessWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingkoFItnessWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
