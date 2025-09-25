@@ -1,5 +1,4 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 namespace SingkoFItnessWebApi.Dtos {
     public class ProgressLogsCreateDto {
         [Required(ErrorMessage = "User ID is required.")]

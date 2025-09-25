@@ -1,6 +1,4 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
-namespace SingkoFItnessWebApi.Dtos {
+﻿namespace SingkoFItnessWebApi.Dtos {
     public class ProgressLogsReadDto {
         public int ProgressId { get; set; }
         public int UserId { get; set; }

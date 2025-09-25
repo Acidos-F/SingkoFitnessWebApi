@@ -16,15 +16,19 @@ namespace SingkoFItnessWebApi.Controllers {
             _mapper = mapper;
         }
 
-        // GET: api/ProgressLog
         [HttpGet]
+        /// <summary>
+        /// Gets all progress logs as a list of DTOs. 
+        /// </summary>
         public async Task<ActionResult<IEnumerable<ProgressLogsReadDto>>> GetProgressLogs() {
             var logs = await _context.ProgressLogs.ToListAsync();
             return _mapper.Map<List<ProgressLogsReadDto>>(logs);
         }
 
-        // GET: api/ProgressLog/5
         [HttpGet("{id}")]
+        /// <summary>
+        /// Gets a single progress log by ID. 
+        /// </summary>
         public async Task<ActionResult<ProgressLogsReadDto>> GetProgressLog(int id) {
             var log = await _context.ProgressLogs.FindAsync(id);
             if (log == null) return NotFound();
@@ -32,8 +36,10 @@ namespace SingkoFItnessWebApi.Controllers {
             return _mapper.Map<ProgressLogsReadDto>(log);
         }
 
-        // POST: api/ProgressLog
         [HttpPost]
+        /// <summary>
+        /// Creates a new progress log if one for the same user and date does not exist. 
+        /// </summary>
         public async Task<IActionResult> CreateProgressLog(ProgressLogsCreateDto dto) {
             // Check if a progress log for this user/date already exists
             var existing = await _context.ProgressLogs
@@ -51,8 +57,10 @@ namespace SingkoFItnessWebApi.Controllers {
             return CreatedAtAction(nameof(GetProgressLog), new { id = log.ProgressId }, readDto);
         }
 
-        // PUT: api/ProgressLog/5
         [HttpPut("{id}")]
+        /// <summary>
+        /// Updates an existing progress log by ID. 
+        /// </summary>
         public async Task<IActionResult> UpdateProgressLog(int id, ProgressLogsUpdateDto dto) {
             var log = await _context.ProgressLogs.FindAsync(id);
             if (log == null) return NotFound();
@@ -64,8 +72,10 @@ namespace SingkoFItnessWebApi.Controllers {
             return NoContent();
         }
 
-        // DELETE: api/ProgressLog/5
         [HttpDelete("{id}")]
+        /// <summary>
+        /// Deletes a progress log by ID. 
+        /// </summary>
         public async Task<IActionResult> DeleteProgressLog(int id) {
             var log = await _context.ProgressLogs.FindAsync(id);
             if (log == null) return NotFound();
