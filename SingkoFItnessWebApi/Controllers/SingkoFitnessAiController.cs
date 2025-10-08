@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System.Net.Http;
+using Microsoft.AspNetCore.Mvc;
+using SingkoFItnessWebApi.Dtos.AiAskDto;
 using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
-using SingkoFItnessWebApi.Dtos;
 
+/// <summary>
+/// Controller responsible for handling AI-powered fitness queries using the Gemini API.
+/// Acts as a middleware between the Singko Fitness app and the Gemini generative language model.
+/// </summary>
 [ApiController]
 [Route("api/[controller]")]
 public class SingkoFitnessAiController : ControllerBase
@@ -18,6 +20,9 @@ public class SingkoFitnessAiController : ControllerBase
         _httpClient = new HttpClient();
     }
 
+    /// <summary>
+    /// Sends a user prompt to the Gemini API and returns a JSON-formatted AI-generated fitness response.
+    /// </summary>
     [HttpPost("ask")]
     public async Task<IActionResult> Ask([FromBody] AiAskDto request)
     {
@@ -28,7 +33,20 @@ public class SingkoFitnessAiController : ControllerBase
         {
             contents = new[]
             {
-                new { parts = new[] { new { text = $"You are a fitness assistant from Singko Fitness. Introduce youself first. dont answer questions that are unrelated to fitness, gym, excercise. You MUST reply with valid JSON only. Do NOT include any explanatory text or markdown code fences. Schema: {{\\\"title\\\":\\\"string\\\",\\\"steps\\\":[\\\"string\\\"]}}. User question: {request.Prompt}" } } }
+                new
+                {
+                    parts = new[]
+                    {
+                        new
+                        {
+                            text = $"You are a fitness assistant from Singko Fitness. " +
+                                   $"Introduce yourself first. Don't answer questions unrelated to fitness, gym, or exercise. " +
+                                   $"You MUST reply with valid JSON only. Do NOT include any explanatory text or markdown code fences. " +
+                                   $"Schema: {{\\\"title\\\":\\\"string\\\",\\\"steps\\\":[\\\"string\\\"]}}. " +
+                                   $"User question: {request.Prompt}"
+                        }
+                    }
+                }
             }
         };
 
@@ -41,14 +59,14 @@ public class SingkoFitnessAiController : ControllerBase
         using var doc = JsonDocument.Parse(responseJson);
 
         string reply = doc.RootElement
-                          .GetProperty("candidates")[0]
-                          .GetProperty("content")
-                          .GetProperty("parts")[0]
-                          .GetProperty("text")
-                          .GetString()
-                          .Replace("```json", "")
-                          .Replace("```", "")
-                          .Trim();
+            .GetProperty("candidates")[0]
+            .GetProperty("content")
+            .GetProperty("parts")[0]
+            .GetProperty("text")
+            .GetString()
+            .Replace("```json", "")
+            .Replace("```", "")
+            .Trim();
 
         return Ok(reply);
     }
